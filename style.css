@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #315b78;
+    color: white;
+    padding: 15px;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section {
+    background-color: white;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+h2 {
+    color: #315b78;
+}
+
+button {
+    background-color: #315b78;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #24445b;
+}
+
+a {
+    color: #315b78;
+}
+
+#valorB, #valorC, #funcion {
+    font-size: 18px;
+    font-weight: bold;
+}
